@@ -26,3 +26,63 @@ Saving To...
 
 [11:41:08] Finished 'sass' after 1.79 s
 [11:41:09] gulp-notify: [Laravel Elixir] Sass Compiled!
+[17:31:51] Using gulpfile ~/Code/sample/gulpfile.js
+[17:31:51] Starting 'watch'...
+[17:31:51] Starting 'browserify'...
+
+Fetching Browserify Source Files...
+   - resources/assets/js/app.js
+
+
+Saving To...
+   - public/js/app.js
+
+[17:31:51] Finished 'browserify' after 565 ms
+[17:31:51] Finished 'watch' after 579 ms
+[17:31:52] 338485 bytes written (0.73 seconds)
+[17:31:52] gulp-notify: [Laravel Elixir] Browserify Compiled!
+[17:51:55] Using gulpfile ~/Code/sample/gulpfile.js
+[17:51:55] Starting 'watch'...
+[17:51:55] Starting 'browserify'...
+
+Fetching Browserify Source Files...
+   - resources/assets/js/app.js
+
+
+Saving To...
+   - public/js/app.js
+
+[17:51:56] Finished 'browserify' after 478 ms
+[17:51:56] Finished 'watch' after 496 ms
+[17:51:56] 338485 bytes written (0.77 seconds)
+[17:51:56] gulp-notify: [Laravel Elixir] Browserify Compiled!
+[17:52:28] Using gulpfile ~/Code/sample/gulpfile.js
+[17:52:28] Starting 'watch'...
+[17:52:28] Starting 'browserify'...
+
+Fetching Browserify Source Files...
+   - resources/assets/js/app.js
+
+
+Saving To...
+   - public/js/app.js
+
+[17:52:28] Finished 'browserify' after 261 ms
+[17:52:28] Finished 'watch' after 273 ms
+[17:52:29] 338485 bytes written (0.75 seconds)
+[17:52:29] gulp-notify: [Laravel Elixir] Browserify Compiled!
+[17:52:37] Using gulpfile ~/Code/sample/gulpfile.js
+[17:52:37] Starting 'watch'...
+[17:52:37] Starting 'browserify'...
+
+Fetching Browserify Source Files...
+   - resources/assets/js/app.js
+
+
+Saving To...
+   - public/js/app.js
+
+[17:52:37] Finished 'browserify' after 357 ms
+[17:52:37] Finished 'watch' after 371 ms
+[17:52:38] 338485 bytes written (0.81 seconds)
+[17:52:38] gulp-notify: [Laravel Elixir] Browserify Compiled!
