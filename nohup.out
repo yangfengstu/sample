@@ -1,0 +1,28 @@
+[11:39:35] Using gulpfile ~/Code/sample/gulpfile.js
+[11:39:35] Starting 'default'...
+[11:39:35] Starting 'sass'...
+
+Fetching Sass Source Files...
+   - resources/assets/sass/app.scss
+
+
+Saving To...
+   - public/css/app.css
+
+[11:39:37] Finished 'default' after 1.63 s
+[11:39:37] gulp-notify: [Laravel Elixir] Sass Compiled!
+[11:39:37] Finished 'sass' after 2.32 s
+[11:40:16] Using gulpfile ~/Code/sample/gulpfile.js
+[11:40:16] Starting 'watch'...
+[11:40:16] Finished 'watch' after 9.86 ms
+[11:41:06] Starting 'sass'...
+
+Fetching Sass Source Files...
+   - resources/assets/sass/app.scss
+
+
+Saving To...
+   - public/css/app.css
+
+[11:41:08] Finished 'sass' after 1.79 s
+[11:41:09] gulp-notify: [Laravel Elixir] Sass Compiled!
